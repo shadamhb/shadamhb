@@ -1,11 +1,4 @@
-![Development and Design](https://coverfiles.alphacoders.com/354/35430.png) 
-### Hey there, I'm Shatha 👋🏼 
 
-
-- 🎓  I'm a fresh graduate of Computer Science at the University of King Abdulaziz.
-- 🌱  I'm on track for learning more about Artificial Intelligence, UX|UI Design, and Data Science.
-- 👀  In my free time, I pursue Graphic Design.
-- ✉️  You can shoot me an email at shadamhb@gmail.com! I'll try to respond as soon as I can.
 
 <div>
   
