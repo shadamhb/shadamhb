@@ -3,7 +3,7 @@
 <div>
   
 ## Skills: 
-Python / Java / SQL / HTML / MatLab / Javascript 
+Python / Java / SQL / HTML / Javascript 
 
 <div>
 
